@@ -1,0 +1,185 @@
+
+### dataset7: 75 volumenes
+[METAL] dataset7_CLINIC_metal_0000_data.nii.gz  comps=5    50.4 cm3  HUmax=19828  clip_vox=101254  6.8s
+[METAL] dataset7_CLINIC_metal_0001_data.nii.gz  comps=2    10.2 cm3  HUmax=19864  clip_vox=20158  3.7s
+[METAL] dataset7_CLINIC_metal_0002_data.nii.gz  comps=2    12.6 cm3  HUmax=7274  clip_vox=14262  2.8s
+[METAL] dataset7_CLINIC_metal_0003_data.nii.gz  comps=9    23.4 cm3  HUmax=18605  clip_vox=34789  3.5s
+[METAL] dataset7_CLINIC_metal_0004_data.nii.gz  comps=3     6.8 cm3  HUmax=18283  clip_vox=7658  2.9s
+[METAL] dataset7_CLINIC_metal_0005_data.nii.gz  comps=2     8.5 cm3  HUmax=24359  clip_vox=10079  2.2s
+[METAL] dataset7_CLINIC_metal_0006_data.nii.gz  comps=4    23.2 cm3  HUmax=19227  clip_vox=28473  2.4s
+[METAL] dataset7_CLINIC_metal_0007_data.nii.gz  comps=4    16.4 cm3  HUmax=17265  clip_vox=30933  4.4s
+[METAL] dataset7_CLINIC_metal_0008_data.nii.gz  comps=3     2.4 cm3  HUmax=7596  clip_vox=3025  2.6s
+[METAL] dataset7_CLINIC_metal_0009_data.nii.gz  comps=3    11.8 cm3  HUmax=7841  clip_vox=33868  1.6s
+[METAL] dataset7_CLINIC_metal_0010_data.nii.gz  comps=2     2.2 cm3  HUmax=3678  clip_vox=2274  3.7s
+[METAL] dataset7_CLINIC_metal_0011_data.nii.gz  comps=13    42.9 cm3  HUmax=17468  clip_vox=63694  2.7s
+[METAL] dataset7_CLINIC_metal_0012_data.nii.gz  comps=4    21.6 cm3  HUmax=15191  clip_vox=28795  3.0s
+[METAL] dataset7_CLINIC_metal_0013_data.nii.gz  comps=11    48.7 cm3  HUmax=18835  clip_vox=90158  3.1s
+[METAL] dataset7_CLINIC_metal_0014_data.nii.gz  comps=1    10.2 cm3  HUmax=8596  clip_vox=13482  2.4s
+[METAL] dataset7_CLINIC_metal_0015_data.nii.gz  comps=2    19.2 cm3  HUmax=21417  clip_vox=34329  1.7s
+[METAL] dataset7_CLINIC_metal_0016_data.nii.gz  comps=4    14.0 cm3  HUmax=8445  clip_vox=18645  2.2s
+[METAL] dataset7_CLINIC_metal_0017_data.nii.gz  comps=2    22.2 cm3  HUmax=17863  clip_vox=38056  2.2s
+[METAL] dataset7_CLINIC_metal_0018_data.nii.gz  comps=3     5.8 cm3  HUmax=20146  clip_vox=11246  2.5s
+[METAL] dataset7_CLINIC_metal_0019_data.nii.gz  comps=1    27.3 cm3  HUmax=9219  clip_vox=78656  2.6s
+[METAL] dataset7_CLINIC_metal_0020_data.nii.gz  comps=1    27.6 cm3  HUmax=9248  clip_vox=57057  2.2s
+[METAL] dataset7_CLINIC_metal_0021_data.nii.gz  comps=4    21.6 cm3  HUmax=15191  clip_vox=28795  2.2s
+[METAL] dataset7_CLINIC_metal_0022_data.nii.gz  comps=1    10.4 cm3  HUmax=7786  clip_vox=13248  1.7s
+[METAL] dataset7_CLINIC_metal_0023_data.nii.gz  comps=5    65.1 cm3  HUmax=18782  clip_vox=76311  2.2s
+[METAL] dataset7_CLINIC_metal_0024_data.nii.gz  comps=4     5.7 cm3  HUmax=21221  clip_vox=5505  1.8s
+[METAL] dataset7_CLINIC_metal_0025_data.nii.gz  comps=3    19.1 cm3  HUmax=18822  clip_vox=28582  2.2s
+[METAL] dataset7_CLINIC_metal_0026_data.nii.gz  comps=3    20.2 cm3  HUmax=22724  clip_vox=18845  2.0s
+[METAL] dataset7_CLINIC_metal_0027_data.nii.gz  comps=5    20.3 cm3  HUmax=18873  clip_vox=21923  2.1s
+[METAL] dataset7_CLINIC_metal_0028_data.nii.gz  comps=3    21.2 cm3  HUmax=19090  clip_vox=41817  2.2s
+[METAL] dataset7_CLINIC_metal_0029_data.nii.gz  comps=9    22.1 cm3  HUmax=20549  clip_vox=39450  2.2s
+[METAL] dataset7_CLINIC_metal_0030_data.nii.gz  comps=3    14.1 cm3  HUmax=21371  clip_vox=25994  2.2s
+[METAL] dataset7_CLINIC_metal_0031_data.nii.gz  comps=4    17.7 cm3  HUmax=19448  clip_vox=31958  2.1s
+[METAL] dataset7_CLINIC_metal_0032_data.nii.gz  comps=2    14.2 cm3  HUmax=19918  clip_vox=28291  1.9s
+[METAL] dataset7_CLINIC_metal_0033_data.nii.gz  comps=2     3.8 cm3  HUmax=6979  clip_vox=4743  2.0s
+[METAL] dataset7_CLINIC_metal_0034_data.nii.gz  comps=13    42.9 cm3  HUmax=17468  clip_vox=63694  2.2s
+[METAL] dataset7_CLINIC_metal_0035_data.nii.gz  comps=3     1.5 cm3  HUmax=14785  clip_vox=1859  2.1s
+[METAL] dataset7_CLINIC_metal_0036_data.nii.gz  comps=1     0.9 cm3  HUmax=18002  clip_vox=1410  2.1s
+[METAL] dataset7_CLINIC_metal_0037_data.nii.gz  comps=7    99.0 cm3  HUmax=22999  clip_vox=156775  2.2s
+[METAL] dataset7_CLINIC_metal_0038_data.nii.gz  comps=2     8.4 cm3  HUmax=20692  clip_vox=5723  2.0s
+[METAL] dataset7_CLINIC_metal_0039_data.nii.gz  comps=2     4.2 cm3  HUmax=6778  clip_vox=3822  2.1s
+[METAL] dataset7_CLINIC_metal_0040_data.nii.gz  comps=4    17.9 cm3  HUmax=20193  clip_vox=23241  2.2s
+[METAL] dataset7_CLINIC_metal_0041_data.nii.gz  comps=3    15.5 cm3  HUmax=15704  clip_vox=9981  1.9s
+[METAL] dataset7_CLINIC_metal_0042_data.nii.gz  comps=8    45.9 cm3  HUmax=18057  clip_vox=81545  2.1s
+[METAL] dataset7_CLINIC_metal_0043_data.nii.gz  comps=11    48.7 cm3  HUmax=18835  clip_vox=90158  2.9s
+[METAL] dataset7_CLINIC_metal_0044_data.nii.gz  comps=8    61.4 cm3  HUmax=20136  clip_vox=81628  2.2s
+[METAL] dataset7_CLINIC_metal_0045_data.nii.gz  comps=3     1.2 cm3  HUmax=8078  clip_vox=1166  2.2s
+[METAL] dataset7_CLINIC_metal_0046_data.nii.gz  comps=2     2.7 cm3  HUmax=24340  clip_vox=5560  2.9s
+[METAL] dataset7_CLINIC_metal_0047_data.nii.gz  comps=12    77.6 cm3  HUmax=19895  clip_vox=147520  2.2s
+[METAL] dataset7_CLINIC_metal_0048_data.nii.gz  comps=2     2.8 cm3  HUmax=20547  clip_vox=3636  2.1s
+[METAL] dataset7_CLINIC_metal_0049_data.nii.gz  comps=4    42.3 cm3  HUmax=18319  clip_vox=51836  2.1s
+[METAL] dataset7_CLINIC_metal_0050_data.nii.gz  comps=3     9.2 cm3  HUmax=16268  clip_vox=15434  2.1s
+[METAL] dataset7_CLINIC_metal_0051_data.nii.gz  comps=3    14.5 cm3  HUmax=12157  clip_vox=23912  2.2s
+[METAL] dataset7_CLINIC_metal_0052_data.nii.gz  comps=1    10.5 cm3  HUmax=21442  clip_vox=12007  2.1s
+[METAL] dataset7_CLINIC_metal_0053_data.nii.gz  comps=1    10.0 cm3  HUmax=20024  clip_vox=16048  1.3s
+[METAL] dataset7_CLINIC_metal_0054_data.nii.gz  comps=2    25.2 cm3  HUmax=20802  clip_vox=45436  2.1s
+[METAL] dataset7_CLINIC_metal_0055_data.nii.gz  comps=7    20.1 cm3  HUmax=18415  clip_vox=22288  2.0s
+[METAL] dataset7_CLINIC_metal_0056_data.nii.gz  comps=3    15.7 cm3  HUmax=17790  clip_vox=30862  2.0s
+[METAL] dataset7_CLINIC_metal_0057_data.nii.gz  comps=3    16.5 cm3  HUmax=18224  clip_vox=26404  2.0s
+[METAL] dataset7_CLINIC_metal_0058_data.nii.gz  comps=7    30.3 cm3  HUmax=22732  clip_vox=57048  2.1s
+[METAL] dataset7_CLINIC_metal_0059_data.nii.gz  comps=2    30.2 cm3  HUmax=9194  clip_vox=55099  1.8s
+[METAL] dataset7_CLINIC_metal_0060_data.nii.gz  comps=3    44.9 cm3  HUmax=21054  clip_vox=91971  2.0s
+[METAL] dataset7_CLINIC_metal_0061_data.nii.gz  comps=3     1.8 cm3  HUmax=17129  clip_vox=2960  1.9s
+[METAL] dataset7_CLINIC_metal_0062_data.nii.gz  comps=5     4.9 cm3  HUmax=9849  clip_vox=8319  1.9s
+[METAL] dataset7_CLINIC_metal_0063_data.nii.gz  comps=2    15.5 cm3  HUmax=21233  clip_vox=28038  2.1s
+[METAL] dataset7_CLINIC_metal_0064_data.nii.gz  comps=1     0.3 cm3  HUmax=14389  clip_vox=806  1.9s
+[METAL] dataset7_CLINIC_metal_0065_data.nii.gz  comps=5    38.3 cm3  HUmax=18816  clip_vox=59492  2.0s
+[METAL] dataset7_CLINIC_metal_0066_data.nii.gz  comps=5    41.4 cm3  HUmax=19684  clip_vox=75775  2.1s
+[METAL] dataset7_CLINIC_metal_0067_data.nii.gz  comps=3    20.1 cm3  HUmax=23519  clip_vox=30908  2.0s
+[METAL] dataset7_CLINIC_metal_0068_data.nii.gz  comps=1     2.3 cm3  HUmax=19380  clip_vox=2860  2.0s
+[METAL] dataset7_CLINIC_metal_0069_data.nii.gz  comps=3    14.2 cm3  HUmax=20399  clip_vox=22696  2.1s
+[METAL] dataset7_CLINIC_metal_0070_data.nii.gz  comps=3     6.7 cm3  HUmax=19662  clip_vox=8831  2.1s
+[METAL] dataset7_CLINIC_metal_0071_data.nii.gz  comps=3    38.7 cm3  HUmax=8814  clip_vox=70822  2.1s
+[METAL] dataset7_CLINIC_metal_0072_data.nii.gz  comps=6     1.9 cm3  HUmax=21192  clip_vox=2999  2.1s
+[METAL] dataset7_CLINIC_metal_0073_data.nii.gz  comps=16     9.8 cm3  HUmax=24970  clip_vox=14222  2.1s
+[METAL] dataset7_CLINIC_metal_0074_data.nii.gz  comps=2     2.7 cm3  HUmax=24340  clip_vox=5560  3.1s
+
+### dataset6: 103 volumenes
+[METAL] dataset6_CLINIC_0001_data.nii.gz  comps=1     0.1 cm3  HUmax=5060  clip_vox=176  2.1s
+[  -  ] dataset6_CLINIC_0002_data.nii.gz  comps=0     0.0 cm3  HUmax=1631  clip_vox=0  1.3s
+[  -  ] dataset6_CLINIC_0003_data.nii.gz  comps=0     0.0 cm3  HUmax=1695  clip_vox=0  1.2s
+[  -  ] dataset6_CLINIC_0004_data.nii.gz  comps=0     0.0 cm3  HUmax=1480  clip_vox=0  1.5s
+[METAL] dataset6_CLINIC_0005_data.nii.gz  comps=8     5.1 cm3  HUmax=22185  clip_vox=9992  2.4s
+[  -  ] dataset6_CLINIC_0006_data.nii.gz  comps=0     0.0 cm3  HUmax=1707  clip_vox=0  0.9s
+[METAL] dataset6_CLINIC_0007_data.nii.gz  comps=5     3.2 cm3  HUmax=30445  clip_vox=6791  2.2s
+[  -  ] dataset6_CLINIC_0008_data.nii.gz  comps=0     0.0 cm3  HUmax=4677  clip_vox=72  1.1s
+[  -  ] dataset6_CLINIC_0009_data.nii.gz  comps=0     0.0 cm3  HUmax=1717  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0010_data.nii.gz  comps=0     0.0 cm3  HUmax=1743  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0011_data.nii.gz  comps=0     0.0 cm3  HUmax=1700  clip_vox=0  1.2s
+[  -  ] dataset6_CLINIC_0012_data.nii.gz  comps=0     0.0 cm3  HUmax=1779  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0013_data.nii.gz  comps=0     0.0 cm3  HUmax=1717  clip_vox=0  1.0s
+[  -  ] dataset6_CLINIC_0014_data.nii.gz  comps=0     0.0 cm3  HUmax=1696  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0015_data.nii.gz  comps=0     0.0 cm3  HUmax=1677  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0016_data.nii.gz  comps=0     0.0 cm3  HUmax=1736  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0017_data.nii.gz  comps=1     0.3 cm3  HUmax=7573  clip_vox=320  2.1s
+[  -  ] dataset6_CLINIC_0018_data.nii.gz  comps=0     0.0 cm3  HUmax=1676  clip_vox=0  1.2s
+[METAL] dataset6_CLINIC_0019_data.nii.gz  comps=1     0.6 cm3  HUmax=7534  clip_vox=865  3.8s
+[  -  ] dataset6_CLINIC_0020_data.nii.gz  comps=0     0.0 cm3  HUmax=1791  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0021_data.nii.gz  comps=0     0.0 cm3  HUmax=1749  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0022_data.nii.gz  comps=0     0.0 cm3  HUmax=1699  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0023_data.nii.gz  comps=0     0.0 cm3  HUmax=1720  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0024_data.nii.gz  comps=0     0.0 cm3  HUmax=1682  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0025_data.nii.gz  comps=0     0.0 cm3  HUmax=1608  clip_vox=0  1.4s
+[  -  ] dataset6_CLINIC_0026_data.nii.gz  comps=0     0.0 cm3  HUmax=1739  clip_vox=0  1.0s
+[  -  ] dataset6_CLINIC_0027_data.nii.gz  comps=0     0.0 cm3  HUmax=1661  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0028_data.nii.gz  comps=1     0.2 cm3  HUmax=21133  clip_vox=376  2.1s
+[  -  ] dataset6_CLINIC_0029_data.nii.gz  comps=0     0.0 cm3  HUmax=1677  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0030_data.nii.gz  comps=0     0.0 cm3  HUmax=1728  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0031_data.nii.gz  comps=1     0.1 cm3  HUmax=3984  clip_vox=105  2.3s
+[  -  ] dataset6_CLINIC_0032_data.nii.gz  comps=0     0.0 cm3  HUmax=1727  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0033_data.nii.gz  comps=0     0.0 cm3  HUmax=1617  clip_vox=0  1.4s
+[  -  ] dataset6_CLINIC_0034_data.nii.gz  comps=0     0.0 cm3  HUmax=1924  clip_vox=0  1.3s
+[  -  ] dataset6_CLINIC_0035_data.nii.gz  comps=0     0.0 cm3  HUmax=1753  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0036_data.nii.gz  comps=0     0.0 cm3  HUmax=3395  clip_vox=2  2.0s
+[METAL] dataset6_CLINIC_0037_data.nii.gz  comps=3     1.8 cm3  HUmax=17129  clip_vox=2960  1.9s
+[  -  ] dataset6_CLINIC_0038_data.nii.gz  comps=0     0.0 cm3  HUmax=2470  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0039_data.nii.gz  comps=30    11.4 cm3  HUmax=3713  clip_vox=3504  2.7s
+[  -  ] dataset6_CLINIC_0040_data.nii.gz  comps=0     0.0 cm3  HUmax=3701  clip_vox=55  1.8s
+[METAL] dataset6_CLINIC_0041_data.nii.gz  comps=1     0.1 cm3  HUmax=4859  clip_vox=186  3.8s
+[  -  ] dataset6_CLINIC_0042_data.nii.gz  comps=0     0.0 cm3  HUmax=1672  clip_vox=0  1.7s
+[  -  ] dataset6_CLINIC_0043_data.nii.gz  comps=0     0.0 cm3  HUmax=2038  clip_vox=0  1.6s
+[  -  ] dataset6_CLINIC_0044_data.nii.gz  comps=0     0.0 cm3  HUmax=1712  clip_vox=0  1.2s
+[  -  ] dataset6_CLINIC_0045_data.nii.gz  comps=0     0.0 cm3  HUmax=1775  clip_vox=0  1.5s
+[  -  ] dataset6_CLINIC_0046_data.nii.gz  comps=0     0.0 cm3  HUmax=1714  clip_vox=0  1.2s
+[  -  ] dataset6_CLINIC_0047_data.nii.gz  comps=0     0.0 cm3  HUmax=1703  clip_vox=0  1.0s
+[METAL] dataset6_CLINIC_0048_data.nii.gz  comps=1     0.9 cm3  HUmax=18002  clip_vox=1410  2.1s
+[  -  ] dataset6_CLINIC_0049_data.nii.gz  comps=0     0.0 cm3  HUmax=1756  clip_vox=0  1.0s
+[  -  ] dataset6_CLINIC_0050_data.nii.gz  comps=0     0.0 cm3  HUmax=2249  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0051_data.nii.gz  comps=0     0.0 cm3  HUmax=1756  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0052_data.nii.gz  comps=0     0.0 cm3  HUmax=4426  clip_vox=27  1.4s
+[METAL] dataset6_CLINIC_0053_data.nii.gz  comps=3     0.6 cm3  HUmax=17162  clip_vox=806  2.2s
+[METAL] dataset6_CLINIC_0054_data.nii.gz  comps=2     0.9 cm3  HUmax=11341  clip_vox=1662  2.2s
+[  -  ] dataset6_CLINIC_0055_data.nii.gz  comps=0     0.0 cm3  HUmax=1738  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0056_data.nii.gz  comps=1     0.3 cm3  HUmax=5754  clip_vox=393  2.3s
+[  -  ] dataset6_CLINIC_0057_data.nii.gz  comps=0     0.0 cm3  HUmax=1924  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0058_data.nii.gz  comps=0     0.0 cm3  HUmax=2641  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0059_data.nii.gz  comps=0     0.0 cm3  HUmax=1735  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0060_data.nii.gz  comps=0     0.0 cm3  HUmax=1634  clip_vox=0  1.7s
+[  -  ] dataset6_CLINIC_0061_data.nii.gz  comps=0     0.0 cm3  HUmax=1630  clip_vox=0  1.4s
+[  -  ] dataset6_CLINIC_0062_data.nii.gz  comps=0     0.0 cm3  HUmax=1646  clip_vox=0  1.0s
+[  -  ] dataset6_CLINIC_0063_data.nii.gz  comps=0     0.0 cm3  HUmax=1626  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0064_data.nii.gz  comps=0     0.0 cm3  HUmax=1620  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0065_data.nii.gz  comps=0     0.0 cm3  HUmax=1760  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0066_data.nii.gz  comps=0     0.0 cm3  HUmax=2589  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0067_data.nii.gz  comps=1     0.3 cm3  HUmax=9982  clip_vox=355  2.3s
+[  -  ] dataset6_CLINIC_0068_data.nii.gz  comps=0     0.0 cm3  HUmax=2701  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0069_data.nii.gz  comps=3     7.7 cm3  HUmax=21457  clip_vox=8573  2.2s
+[METAL] dataset6_CLINIC_0070_data.nii.gz  comps=1     0.3 cm3  HUmax=14389  clip_vox=806  2.0s
+[METAL] dataset6_CLINIC_0071_data.nii.gz  comps=1     0.1 cm3  HUmax=5237  clip_vox=195  2.1s
+[METAL] dataset6_CLINIC_0072_data.nii.gz  comps=1     0.2 cm3  HUmax=10637  clip_vox=355  3.6s
+[  -  ] dataset6_CLINIC_0073_data.nii.gz  comps=0     0.0 cm3  HUmax=1943  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0074_data.nii.gz  comps=0     0.0 cm3  HUmax=2540  clip_vox=0  1.5s
+[METAL] dataset6_CLINIC_0075_data.nii.gz  comps=2     0.6 cm3  HUmax=7292  clip_vox=897  3.4s
+[METAL] dataset6_CLINIC_0076_data.nii.gz  comps=3     0.9 cm3  HUmax=9741  clip_vox=1262  2.2s
+[  -  ] dataset6_CLINIC_0077_data.nii.gz  comps=0     0.0 cm3  HUmax=3077  clip_vox=1  1.2s
+[  -  ] dataset6_CLINIC_0078_data.nii.gz  comps=0     0.0 cm3  HUmax=3321  clip_vox=8  1.1s
+[  -  ] dataset6_CLINIC_0079_data.nii.gz  comps=0     0.0 cm3  HUmax=1656  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0080_data.nii.gz  comps=1     0.1 cm3  HUmax=13843  clip_vox=353  2.3s
+[  -  ] dataset6_CLINIC_0081_data.nii.gz  comps=0     0.0 cm3  HUmax=1625  clip_vox=0  1.0s
+[  -  ] dataset6_CLINIC_0082_data.nii.gz  comps=0     0.0 cm3  HUmax=1740  clip_vox=0  1.2s
+[  -  ] dataset6_CLINIC_0083_data.nii.gz  comps=0     0.0 cm3  HUmax=1741  clip_vox=0  1.0s
+[METAL] dataset6_CLINIC_0084_data.nii.gz  comps=1     0.1 cm3  HUmax=3062  clip_vox=0  2.2s
+[  -  ] dataset6_CLINIC_0085_data.nii.gz  comps=0     0.0 cm3  HUmax=1750  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0086_data.nii.gz  comps=0     0.0 cm3  HUmax=1669  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0087_data.nii.gz  comps=0     0.0 cm3  HUmax=1737  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0088_data.nii.gz  comps=0     0.0 cm3  HUmax=1808  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0089_data.nii.gz  comps=2     0.4 cm3  HUmax=10676  clip_vox=718  2.5s
+[  -  ] dataset6_CLINIC_0090_data.nii.gz  comps=0     0.0 cm3  HUmax=2470  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0091_data.nii.gz  comps=5     3.4 cm3  HUmax=18879  clip_vox=4395  2.2s
+[  -  ] dataset6_CLINIC_0092_data.nii.gz  comps=0     0.0 cm3  HUmax=1859  clip_vox=0  1.1s
+[METAL] dataset6_CLINIC_0093_data.nii.gz  comps=1     0.5 cm3  HUmax=16682  clip_vox=915  3.3s
+[  -  ] dataset6_CLINIC_0094_data.nii.gz  comps=0     0.0 cm3  HUmax=1795  clip_vox=0  1.3s
+[  -  ] dataset6_CLINIC_0095_data.nii.gz  comps=0     0.0 cm3  HUmax=1928  clip_vox=0  1.0s
+[  -  ] dataset6_CLINIC_0096_data.nii.gz  comps=0     0.0 cm3  HUmax=1701  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0097_data.nii.gz  comps=0     0.0 cm3  HUmax=2781  clip_vox=0  0.9s
+[  -  ] dataset6_CLINIC_0098_data.nii.gz  comps=0     0.0 cm3  HUmax=1772  clip_vox=0  1.1s
+[  -  ] dataset6_CLINIC_0099_data.nii.gz  comps=0     0.0 cm3  HUmax=1984  clip_vox=0  0.9s
+[  -  ] dataset6_CLINIC_0100_data.nii.gz  comps=0     0.0 cm3  HUmax=1609  clip_vox=0  1.6s
+[  -  ] dataset6_CLINIC_0101_data.nii.gz  comps=0     0.0 cm3  HUmax=1624  clip_vox=0  0.9s
+[METAL] dataset6_CLINIC_0102_data.nii.gz  comps=1     1.4 cm3  HUmax=15467  clip_vox=1694  2.0s
+[  -  ] dataset6_CLINIC_0103_data.nii.gz  comps=0     0.0 cm3  HUmax=1643  clip_vox=0  2.4s
+
+RESUMEN: dataset7 con metal: 75/75 | dataset6 con metal: 27/103
+CSV: /home/kiara.balcazar/metalsynth/outputs/metal_screening.csv | PNGs: /home/kiara.balcazar/metalsynth/outputs/metal_png

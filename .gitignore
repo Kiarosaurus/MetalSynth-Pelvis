@@ -1,0 +1,5 @@
+data/
+*.nii.gz
+outputs/metal_png/
+__pycache__/
+*.pyc

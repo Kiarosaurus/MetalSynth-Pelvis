@@ -1,0 +1,24 @@
+=== Dedup por hash de voxeles (tarda ~5-15 min) ===
+..................................................................................................................................................................................
+Grupos duplicados encontrados: 6
+  DUP: dataset6_CLINIC_0037_data.nii.gz <-> dataset7_CLINIC_metal_0061_data.nii.gz
+  DUP: dataset6_CLINIC_0048_data.nii.gz <-> dataset7_CLINIC_metal_0036_data.nii.gz
+  DUP: dataset6_CLINIC_0070_data.nii.gz <-> dataset7_CLINIC_metal_0064_data.nii.gz
+  DUP: dataset7_CLINIC_metal_0012_data.nii.gz <-> dataset7_CLINIC_metal_0021_data.nii.gz
+  DUP: dataset7_CLINIC_metal_0013_data.nii.gz <-> dataset7_CLINIC_metal_0043_data.nii.gz
+  DUP: dataset7_CLINIC_metal_0046_data.nii.gz <-> dataset7_CLINIC_metal_0074_data.nii.gz
+
+Exclusiones: 27 total (3 definitivas, 24 pendientes de triaje)
+Cohorte A provisional: 76 volumenes (puede crecer si hay FPs en el triaje)
+
+=== Ejemplos seleccionados (8) ===
+  dataset7_CLINIC_metal_0037_data.nii.gz    99.0 cm3  7 comp  -> dataset7_CLINIC_metal_0037_data_z74.png
+  dataset7_CLINIC_metal_0047_data.nii.gz    77.6 cm3  12 comp  -> dataset7_CLINIC_metal_0047_data_z137.png
+  dataset7_CLINIC_metal_0023_data.nii.gz    65.1 cm3  5 comp  -> dataset7_CLINIC_metal_0023_data_z150.png
+  dataset7_CLINIC_metal_0007_data.nii.gz    16.4 cm3  4 comp  -> dataset7_CLINIC_metal_0007_data_z282.png
+  dataset7_CLINIC_metal_0056_data.nii.gz    15.7 cm3  3 comp  -> dataset7_CLINIC_metal_0056_data_z122.png
+  dataset7_CLINIC_metal_0063_data.nii.gz    15.5 cm3  2 comp  -> dataset7_CLINIC_metal_0063_data_z45.png
+  dataset7_CLINIC_metal_0036_data.nii.gz     0.9 cm3  1 comp  -> dataset7_CLINIC_metal_0036_data_z318.png
+  dataset7_CLINIC_metal_0064_data.nii.gz     0.3 cm3  1 comp  -> dataset7_CLINIC_metal_0064_data_z183.png
+
+8 PNGs copiados a /home/kiara.balcazar/metalsynth/outputs/ejemplos_asesor

@@ -1,0 +1,9 @@
+dataset,file,has_metal,n_comp,total_mm3,max_comp_mm3,z_best,hu_min,hu_max,n_vox_at_clip,sec
+dataset7,dataset7_CLINIC_metal_0037_data.nii.gz,True,7,98974.5,31908.1,74,-7473,22999,156775,2.2
+dataset7,dataset7_CLINIC_metal_0047_data.nii.gz,True,12,77571.2,26853.8,137,-8812,19895,147520,2.2
+dataset7,dataset7_CLINIC_metal_0023_data.nii.gz,True,5,65066.3,16839.3,150,-7767,18782,76311,2.2
+dataset7,dataset7_CLINIC_metal_0007_data.nii.gz,True,4,16409.7,7710.0,282,-7717,17265,30933,4.4
+dataset7,dataset7_CLINIC_metal_0056_data.nii.gz,True,3,15708.1,5699.3,122,-6925,17790,30862,2.0
+dataset7,dataset7_CLINIC_metal_0063_data.nii.gz,True,2,15521.9,10787.5,45,-4156,21233,28038,2.1
+dataset7,dataset7_CLINIC_metal_0036_data.nii.gz,True,1,934.6,934.6,318,-2714,18002,1410,2.1
+dataset7,dataset7_CLINIC_metal_0064_data.nii.gz,True,1,325.4,325.4,183,-2057,14389,806,1.9
