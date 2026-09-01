@@ -7,7 +7,7 @@ dataset6_CLINIC_0019_data.nii.gz,metal_detectado,metal,1,598.6,7534,dataset6_CLI
 dataset6_CLINIC_0028_data.nii.gz,metal_detectado,metal,1,174.0,21133,dataset6_CLINIC_0028_data_z76.png,
 dataset6_CLINIC_0031_data.nii.gz,metal_detectado,metal,1,100.5,3984,dataset6_CLINIC_0031_data_z300.png,
 dataset6_CLINIC_0037_data.nii.gz,duplicado_de_dataset7_CLINIC_metal_0061_data.nii.gz,definitivo,3,1799.7,17129,dataset6_CLINIC_0037_data_z277.png,
-dataset6_CLINIC_0039_data.nii.gz,metal_detectado,falso_positivo_artefacto_borde_FOV,30,11355.5,3713,dataset6_CLINIC_0039_data_z355.png,
+dataset6_CLINIC_0039_data.nii.gz,metal_detectado,falso_positivo,30,11355.5,3713,dataset6_CLINIC_0039_data_z355.png,
 dataset6_CLINIC_0041_data.nii.gz,metal_detectado,metal,1,114.6,4859,dataset6_CLINIC_0041_data_z313.png,
 dataset6_CLINIC_0048_data.nii.gz,duplicado_de_dataset7_CLINIC_metal_0036_data.nii.gz,definitivo,1,934.6,18002,dataset6_CLINIC_0048_data_z318.png,
 dataset6_CLINIC_0053_data.nii.gz,metal_detectado,metal,3,576.7,17162,dataset6_CLINIC_0053_data_z191.png,
